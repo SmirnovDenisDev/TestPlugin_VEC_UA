@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Assembly>Revit_Command_1.dll</Assembly>
+		<AddInId>239BD853-36E4-461f-9171-C5ACEDA4E721</AddInId>
+		<FullClassName>Revit_Command_1.Main</FullClassName>
+		<Text>Command_Add_levels_from_excel</Text>
+		<VendorId>ADSK</VendorId>
+		<VendorDescription>Autodesk, www.autodesk.com</VendorDescription>
+	</AddIn>
+</RevitAddIns>
